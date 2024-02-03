@@ -1,0 +1,30 @@
+{
+    "name": "open-source-ios-apps-zimoshi",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        ".github/CONTRIBUTING.md",
+        ".github/PULL_REQUEST_TEMPLATE.md",
+        ".github/schema.json",
+        "APPSTORE.md",
+        "ARCHIVE.md",
+        "LATEST.md",
+        "README.md",
+        "contents.json",
+        "main.blocks",
+        "main.ts",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.47",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
